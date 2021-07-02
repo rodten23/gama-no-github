@@ -31,6 +31,7 @@ programa
 					}
 					senao{ // só pode ser R
 						escreva("Reprovado")
+						// teste pra ver se Git reconhece
 					}	
 				}
 			}
@@ -43,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 504; 
+ * @POSICAO-CURSOR = 781; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
