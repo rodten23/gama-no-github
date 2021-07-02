@@ -32,7 +32,8 @@ programa
 					senao{ // só pode ser R
 						escreva("Reprovado")
 						// teste pra ver se Git reconhece
-						// teste para comparar branchs 2
+						// teste para comparar nas branchs
+						// teste para comparar branchs 3
 					}	
 				}
 			}
@@ -45,7 +46,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 788; 
+ * @POSICAO-CURSOR = 862; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
